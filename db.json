@@ -62,7 +62,29 @@
         "Letitia Wright"
       ],
       "video_url": "https://www.youtube.com/watch?v=xjDjIWPwcPU"
-    }
+    },
+    
+    {
+    "id": "4",
+    "titulo": "El Bueno, El Malo y el Feo",
+    "genero": "Western",
+    "imagen": "2131165212",
+    "lanzamiento": "17/07/1966",
+    "small_img_url": "http://3.bp.blogspot.com/-0BeNCQDSmN0/U2LWpwNdcdI/AAAAAAAAApk/4-zDdVdP1oQ/s1600/01+-+The_Good_The_Bad_And_The_Ugly_Wallpaper.jpg",
+    "large_img_url": "https://www.maspormas.com/img/2016/06/the-good.jpg",
+    "duracion": "186",
+    "artistas": [
+      "Clint Eastwood",
+      "Eli Wallach",
+      "Lee Van Cleef"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Knvw_G3Z2-I"
+  }
+    
+    
+    
+    
+    
   ],
   "categorias": [
     {
