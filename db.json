@@ -81,6 +81,103 @@
     "video_url": "https://www.youtube.com/watch?v=Knvw_G3Z2-I"
   }
     
+    {
+    "id": "5",
+    "titulo": "Sueños de Libertad",
+    "genero": "Drama",
+    "imagen": "2131165213",
+    "lanzamiento": "17/07/1994",
+    "small_img_url": "https://2.bp.blogspot.com/-11Mhtp1qpUQ/VueuV2m5sLI/AAAAAAAAAK4/aByNcN_Et2g9DOvu8LrxzthhWXKkzbzKQ/s1600/The-Shawshank-Redemption1.jpg",
+    "large_img_url": "https://www.peliculasflv.tv/wp-content/uploads/2015/03/The.Shawshank.Redemption.1994.DVD_.Cover_.jpg",
+    "duracion": "142",
+    "artistas": [
+      "Tim Robbins",
+      "Morgan Freeman"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=raRbQkJ2pD4"
+  },
+  
+  {
+    "id": "6",
+    "titulo": "El Padrino",
+    "genero": "Drama",
+    "imagen": "2131165214",
+    "lanzamiento": "17/07/1972",
+    "small_img_url": "https://vignette.wikia.nocookie.net/padrinos/images/3/3e/El_Padrino_Parte_1-Caratula.jpg/revision/latest?cb=20120405120844&path-prefix=es",
+    "large_img_url": "https://i0.wp.com/blog.derrama.org.pe/wp-content/uploads/2016/10/5.-PADRINO.jpg",
+    "duracion": "175",
+    "artistas": [
+      "Marlon Brando",
+      "Al Pacino",
+      "Robert Duvall",
+      "James Caan"
+    ],
+    "https://www.youtube.com/watch?v=Z1dRPt_4rZs"
+  },
+  
+  {
+    "id": "7",
+    "titulo": "Grease",
+    "genero": "Comedia Romantica",
+    "imagen": "2131165215",
+    "lanzamiento": "17/07/1978",
+    "small_img_url": "http://2.bp.blogspot.com/-p49cb7DzHD4/TuHL60qb4GI/AAAAAAAAADA/9YM_T8wD7G4/s1600/grease.jpg",
+    "large_img_url": "http://2.bp.blogspot.com/-p49cb7DzHD4/TuHL60qb4GI/AAAAAAAAADA/9YM_T8wD7G4/s1600/grease.jpg",
+    "duracion": "110",
+    "artistas": [
+      "John Travolta",
+      "Olivia Newton-John"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=7oKPYe53h78"
+  },
+  
+  {
+    "id": "8",
+    "titulo": "Forrest Gump",
+    "genero": "Drama",
+    "imagen": "2131165216",
+    "lanzamiento": "17/07/1994",
+    "small_img_url": "https://jralonsoes.files.wordpress.com/2013/06/forrest-gump.jpg",
+    "large_img_url": "http://es.web.img3.acsta.net/r_1280_720/pictures/15/09/29/13/41/376705.jpg",
+    "duracion": "142",
+    "artistas": [
+      "Tom Hanks"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=oo9exILZNZA"
+  },
+  
+  {
+    "id": "9",
+    "titulo": "Diario de una Pasion",
+    "genero": "Comedia Romantica",
+    "imagen": "2131165217",
+    "lanzamiento": "17/07/2004",
+    "small_img_url": "https://cdn3.navidad.es/wp-content/uploads/2015/01/diario-de-una-pasion.jpg",
+    "large_img_url": "https://http2.mlstatic.com/el-diario-de-una-pasion-de-nicholas-sparks-pdf-regalo-D_NQ_NP_448115-MLU25138156454_102016-F.jpg",
+    "duracion": "124",
+    "artistas": [
+      "Ryan Gosling",
+      "Rachel McAdams"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=V2vKIF1b7mw"
+  },
+  
+  {
+    "id": "10",
+    "titulo": "Coco",
+    "genero": "Infantil",
+    "imagen": "2131165218",
+    "lanzamiento": "17/07/2017",
+    "small_img_url": "http://images6.fanpop.com/image/photos/41200000/Coco-disney-pixar-coco-41250145-1024-768.jpg",
+    "large_img_url": "http://images6.fanpop.com/image/photos/41200000/Coco-disney-pixar-coco-41250145-1024-768.jpg",
+    "duracion": "105",
+    "artistas": [
+      "Anthony Gonzalez",
+      "Gael García Bernal"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=yZ7cBunq8xo"
+  }
+    
     
     
     
