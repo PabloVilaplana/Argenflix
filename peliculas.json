@@ -129,21 +129,6 @@
       "Olivia Newton-John"
     ],
     "video_url": "https://www.youtube.com/watch?v=7oKPYe53h78"
-  },
-  
-  {
-    "id": "8",
-    "titulo": "Forrest Gump",
-    "genero": "Drama",
-    "imagen": "2131165216",
-    "lanzamiento": "17/07/1994",
-    "small_img_url": "https://jralonsoes.files.wordpress.com/2013/06/forrest-gump.jpg",
-    "large_img_url": "http://es.web.img3.acsta.net/r_1280_720/pictures/15/09/29/13/41/376705.jpg",
-    "duracion": "142",
-    "artistas": [
-      "Tom Hanks"
-    ],
-    "video_url": "https://www.youtube.com/watch?v=oo9exILZNZA"
   }
   
  
