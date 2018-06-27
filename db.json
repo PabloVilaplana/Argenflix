@@ -235,17 +235,17 @@
     {
       "id": "1",
       "username": "frank",
-      "password": "6c1cae8d3d715d2e1759d64b2e91fe83"
+      "password": "1234"
     },
     {
       "id": "2",
       "username": "pablo",
-      "password": "a02005bfad55ba8f265a532e874142d0"
+      "password": "1234"
     },
     {
       "id": "3",
       "username": "nehuen",
-      "password": "cf635b21783909aa5e0be91232a84bd4"
+      "password": "1234"
     }
   ]   
 }
